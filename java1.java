@@ -1,2 +1,2 @@
-javac demo.javac1111
-335448484
+java Demo.javac
+123456
